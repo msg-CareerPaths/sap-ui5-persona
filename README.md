@@ -1,6 +1,6 @@
 # SAP-UI5-Perona
 
-## Context, Learning Paths and Skillset for SAP UI5 Persona
+## Context, Learning Paths and Skillset for SAP *UI5* Persona
 
 [**.msg|CareerPath**](https://msg-careerpaths.github.io/roadmap/#/) for the SAP *UI5* Persona
 
