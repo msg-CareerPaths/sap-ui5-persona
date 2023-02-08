@@ -2,8 +2,6 @@
 
 ## Who is Ma*UI*?
 
-![MaUI](https://raw.githubusercontent.com/msg-CareerPaths/sap-ui5-persona/main/assets/MaUI.png)
-
 Ma*UI* is new to the SAP world and very interessted in Front-End development. He wants to focus on the modern parts of SAP UI Development and is eager to become a demigod in web development and create pleasing web applications for business users.
 
 ## What is Ma*UI* capable of?
