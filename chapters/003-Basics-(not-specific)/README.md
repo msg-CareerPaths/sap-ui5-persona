@@ -1,13 +1,13 @@
 # Basics (not framework-specific)
 
-## [JavaScript]()
+## [JavaScript](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003a-JavaScript.md)
 
-## [XML]()
+## [XML](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003b-XML.md)
 
-## [JSON]()
+## [JSON](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003c-JSON.md)
 
-## [YAML]()
+## [YAML](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
 
-## [OData]()
+## [OData](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003e-OData.md)
 
-## [Chrome DevTools]()
+## [Chrome DevTools](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003f-Chrome-DevTools.md)

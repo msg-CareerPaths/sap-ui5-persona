@@ -1,7 +1,18 @@
 # Main Path
 
-- [1. Introduction to the *UI5*-Persona](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/001-MaUI-5-Persona-Overview.md)
-- [2. Getting a Mentor](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/002-Getting-a-Mentor-assigned.md)
-- [3. Getting Started](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/003-Getting-Started.md)
-- [4. Basics (not framework-specific)](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/004-Basics-not-framework-specific.md)
-- [5. Basics (framework-specific)](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/005-Basics-framework-specific.md)
+## [Prerequisite: Getting a Mentor](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-Preequisite-Getting-a-Mentor-assigned.md)
+
+## [Introduction to the UI5-Persona](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/001-Introduction-UI5-Persona.md)
+
+## [Getting Started](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/002-Getting-Started.md)
+
+## [Basics (not framework-specific)](https://github.com/msg-CareerPaths/sap-ui5-persona/tree/main/chapters/003-Basics-(not-specific))
+
+- [JavaScript](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003a-JavaScript.md)
+- [XML](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003b-XML.md)
+- [JSON](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003c-JSON.md)
+- [YAML](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
+- [OData](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003e-OData.md)
+- [Chrome DevTools](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/003-Basics-(not-specific)/003f-Chrome-DevTools.md)
+
+## [Basics (framework-specific)](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/004-Basics-specific.md)
