@@ -1,4 +1,4 @@
-# 3. Getting started
+# Getting started
 
 [What is BAS and how to use it](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8f46c6e6f86641cc900871c903761fd4.html)
 

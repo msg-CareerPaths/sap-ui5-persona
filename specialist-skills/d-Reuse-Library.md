@@ -1,4 +1,4 @@
-# 6d. Reuse Library
+# Reuse Library
 
 Common elements (Logic, Views, Fragments, Custom Controls, …) of UI5 development can be encapsulated into a library to be reused in different apps.
 

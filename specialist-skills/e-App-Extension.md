@@ -1,4 +1,4 @@
-# 6e. App Extension
+# App Extension
 
 It is common in customer projects that standard apps are not sufficient.
 Therefore apps can be enhanced in different ways, depending on the type of app and specific implementation of it.

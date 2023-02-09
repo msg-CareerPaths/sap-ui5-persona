@@ -1,4 +1,4 @@
-# 2. Getting a Mentor assigned
+# Prerequisite: Getting a Mentor assigned
 
 It is a **must-have** for an employee, who wants to become like **Ma*****UI***, to get support.
 Qualitative support, without long waiting times and without having fear to ask questions (incl. via remote call).
