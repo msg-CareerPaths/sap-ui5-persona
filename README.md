@@ -6,7 +6,7 @@
 
 ---
 
-## [LearingPath](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-main-path/000-Main-Path.md)
+## [LearingPath](https://github.com/msg-CareerPaths/sap-ui5-persona/tree/main/chapters)
 
 - [Prerequisite: Getting a Mentor](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-Preequisite-Getting-a-Mentor-assigned.md)
 - [Introduction to the UI5-Persona](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/001-Introduction-UI5-Persona.md)

@@ -1,4 +1,4 @@
-# Main Path
+# LearningPath
 
 ## [Prerequisite: Getting a Mentor](https://github.com/msg-CareerPaths/sap-ui5-persona/blob/main/chapters/000-Preequisite-Getting-a-Mentor-assigned.md)
 
