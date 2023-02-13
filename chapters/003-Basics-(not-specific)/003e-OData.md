@@ -1,6 +1,6 @@
 # OData
 
-[Official](https://www.odata.org/)
+[Official Website](https://www.odata.org/)
 
 [Tutorial](https://www.odata.org/getting-started/)
 

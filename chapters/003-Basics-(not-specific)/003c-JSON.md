@@ -1,6 +1,6 @@
 # JSON
 
-[Official](https://www.json.org/json-en.html)
+[Official Website](https://www.json.org/json-en.html)
 
 [Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
 

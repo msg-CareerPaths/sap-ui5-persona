@@ -1,6 +1,6 @@
 # YAML
 
-[Official](https://yaml.org/)
+[Official Website](https://yaml.org/)
 
 [Tutorial](https://yaml.org/spec/1.2.2/)
 
