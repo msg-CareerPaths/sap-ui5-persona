@@ -9,7 +9,7 @@
 - [Download and install Node.Js and NPM](https://nodejs.org/en/)
 - [Install Git](https://git-scm.com/downloads)
 
-## [Node.Js getting started](https://nodejs.dev/learn)
+## [Node.Js getting started](https://nodejs.dev/en/learn)
 
 ## [NPM getting started](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 
